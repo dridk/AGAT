@@ -366,7 +366,7 @@ Input file in sam (.sam extension) or bam (.bam extension) format.
 
 =item B<-b> or B<--bam>
 
-To force to use the input file as sam file.
+To force to use the input file as bam file.
 
 =item B<-s> or B<--sam>
 
